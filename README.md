@@ -1,5 +1,10 @@
 # vue-signature-pad
 
+Vue 로 된 서명 받는 모듈
+쓸 만한 게 잘 없어서 만들었다.
+
+TODO 
+
 ## Project setup
 ```
 npm install
